@@ -1,6 +1,6 @@
 # ViroVision_FRCNN_ResNet50_FPN
-![Status](https://img.shields.io/badge/repo-public-green)
-![Python](https://img.shields.io/badge/python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Public-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/github/license/MrRincon/ViroVision_FasterRCNN_ResNet50_FPN)
 
 This project focuses on developing a Convolutional Neural Network (CNN) using Faster R-CNN model for the classification and object detection of viruses in Transmission Electron Microscopy (TEM) Images. 
