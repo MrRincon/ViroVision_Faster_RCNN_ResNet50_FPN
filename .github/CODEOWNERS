@@ -1,0 +1,7 @@
+# Require @MrRincon to approve any PR that touches any file
+* @MrRincon
+
+# Protecting specific files
+README.md @MrRincon
+.gitignore @MrRincon
+LICENSE @MrRincon
