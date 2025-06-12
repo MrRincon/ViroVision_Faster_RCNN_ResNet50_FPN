@@ -1,4 +1,4 @@
-# ViroVision_FRCNN_ResNet50_FPN
+# ViroVision_Faster_RCNN_ResNet50_FPN
 ![Status](https://img.shields.io/badge/RepoStatus-Public-green)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/github/license/MrRincon/ViroVision_FasterRCNN_ResNet50_FPN)
