@@ -6,7 +6,7 @@
 This project focuses on developing a Convolutional Neural Network (CNN) using Faster R-CNN model for the classification and object detection of viruses in Transmission Electron Microscopy (TEM) Images. 
 The goal is to accurately identify and locate individual virus particles within complex images, contributing to faster and more efficient virus analysis.
 
-I would like to acknowledge and extend my gratitude to for the guidance and support throughout this project to my project supervisor Ahmed Eissa, Associate Lecturer in Computer Science, and Dr. Olugbenga Oluwagbeni, Senior Lecturer of Computing Science. 
+I would like to acknowledge and extend my gratitude to for the guidance and support throughout this project to my project supervisor Ahmed Eissa, Associate Lecturer in Computer Science, and Dr. Aboubaker Lasebae, Interim Head of Department in Computer Science. 
 
 ---
 ## Dataset Reference
